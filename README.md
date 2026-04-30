@@ -1,2 +1,4 @@
 # BCIS-466-Semester-Project-Maggie-Hanson
-BCIS 466 - Machine learning for Adult Income Census data from 1994What the project does Why the project is useful How users can get started with the project Where users can get help with your project Who maintains and contributes to the project
+Machine learning Project using Adult Income Census data (https://archive.ics.uci.edu/dataset/2/adult) from 1994.
+The objective is to build, evaluate, and interpret a model that predicts the binary target income (>50K vs <=50K) using fourteen demographic and employment-related features. 
+This is a useful exploratory machine learning model that helps identify key variables through visualizations to easily decode variable class imbalances. 
